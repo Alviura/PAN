@@ -50,6 +50,3 @@ Write **SQL CREATE statements** to implement tables in Azure SQL Database, ensur
 ### Additional Resources
 - **Azure SQL Database**: Find documentation relevant to storage choices and table indexing options.
 - **Java JDBC**: Use JDBC for database connectivity, ensuring robust error handling and data consistency.
-
-### Academic Integrity
-This project must be completed individually with no external assistance. Violations will be treated as academic misconduct.
